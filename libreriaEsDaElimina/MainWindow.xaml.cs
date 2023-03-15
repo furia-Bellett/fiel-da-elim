@@ -23,6 +23,16 @@ namespace libreriaEsDaElimina
         public MainWindow()
         {
             InitializeComponent();
+        
+        
+        
+        
+        
+        //jhb bhjmh
+        
+        
+        
+        
         }
     }
 }
